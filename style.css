@@ -7,3 +7,8 @@ body {
     padding: 0;
 background-color: #ffccd4;
 }
+d.upper-right {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
