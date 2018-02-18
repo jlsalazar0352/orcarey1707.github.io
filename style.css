@@ -7,13 +7,3 @@ body {
     padding: 0;
 background-color: #ffccd4;
 }
-
-#100 {
-    position: relative;
-}
-
-.100 img {
-  position:absolute;
-  top:0;
-  right:0;
-}
