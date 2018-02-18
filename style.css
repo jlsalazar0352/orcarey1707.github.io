@@ -5,3 +5,11 @@ background-color: #ffccd4;
 body {
 background-color: #ffccd4;
 }
+
+.100 {
+position: absolute;
+    right: 0px;
+    width: 100%;
+    border: 2px solid;
+    padding: 10px;
+}
