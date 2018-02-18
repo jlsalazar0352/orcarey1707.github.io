@@ -10,8 +10,8 @@ background-color: #ffccd4;
 
 .100 {
 position: absolute;
-    right: 0px;
-    width: 500px;
+    right: 0;
+    width: 500;
     border: 2px solid;
-    padding: 10px;
+    padding: 10;
 }
