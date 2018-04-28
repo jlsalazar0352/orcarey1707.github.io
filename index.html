@@ -62,14 +62,13 @@ ctx.strokeText("Hello World",10,50);
   
   <a href="https://www.linkedin.com/in/oliver-carey-253271162/" target="_blank"><li>LinkedIn</li></a>
   
-  <li>Javascript Program</li>
+  <li><p>Javascript Program Farenheit to Celsius</p></li>
+  <p id="demo"></p>
   <script>
-var area = areaFunction(10, 5);
-document.getElementById("demo").innerHTML = area;
-
-function areaFunction(a, b) {
-    return a * b;
+function toC(f) {
+    return (5/9) * (f-32);
 }
+document.getElementById("demo").innerHTML = toC(77);
 </script>
   
     </ol>
